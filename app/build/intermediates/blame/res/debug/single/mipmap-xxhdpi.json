@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\Lifeline\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\splash_icon.png",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\Lifeline\\app\\src\\main\\res\\mipmap-xxhdpi\\splash_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\Lifeline\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\Lifeline\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
