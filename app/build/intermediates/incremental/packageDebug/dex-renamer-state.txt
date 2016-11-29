@@ -1,0 +1,7 @@
+#Tue Nov 29 01:29:46 PST 2016
+base.0=C\:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2e2a643793352ded685b20d6b0124ac3316d290d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3fca27df636e373dd209e815e225897d4385d2bd\\classes.dex
+base.1=C\:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3fca27df636e373dd209e815e225897d4385d2bd
+file.0=C\:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2e2a643793352ded685b20d6b0124ac3316d290d\\classes.dex
