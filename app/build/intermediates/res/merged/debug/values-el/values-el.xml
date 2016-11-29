@@ -36,5 +36,6 @@
     <string name="com_facebook_share_button_text">Κοινοποίηση</string>
     <string name="com_facebook_tooltip_default">Νέο! Έχετε τον έλεγχο - επιλέξτε ποιες πληροφορίες θέλετε να κοινοποιούνται στις εφαρμογές.</string>
     <string name="messenger_send_button_text">Αποστολή</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Αναζήτηση"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

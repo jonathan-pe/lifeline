@@ -36,5 +36,6 @@
     <string name="com_facebook_share_button_text">Udostępnij</string>
     <string name="com_facebook_tooltip_default">Nowość! Masz pełną kontrolę – określ, jakie informacje chcesz udostępniać aplikacjom.</string>
     <string name="messenger_send_button_text">Wyślij</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Szukaj"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

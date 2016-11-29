@@ -36,5 +36,6 @@
     <string name="com_facebook_share_button_text">Teilen</string>
     <string name="com_facebook_tooltip_default">Neu! Es liegt ganz an dir – du kannst dir aussuchen, was du mit Apps teilen möchtest.</string>
     <string name="messenger_send_button_text">Senden</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Suchen"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

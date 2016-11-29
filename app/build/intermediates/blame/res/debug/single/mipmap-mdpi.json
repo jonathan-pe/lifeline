@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\Lifeline\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\splash_icon.png",
-        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\Lifeline\\app\\src\\main\\res\\mipmap-mdpi\\splash_icon.png"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\Lifeline\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\Lifeline\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\splash_icon.png",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\src\\main\\res\\mipmap-mdpi\\splash_icon.png"
     }
 ]

@@ -8,16 +8,7 @@
         optimize="true"
         revision="24.0.2"
         sha1="62d18ff54e5bdb047ff4df01084370cb15e55c3a">
-        <dex dex="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognito-2.3.3_e05664e5ba86e5a9b1a6a95bc4a0a8154c691472\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_8014c74ac6015174aee8e9ffd7fe1aac1b534c3a\classes.dex" />
+        <dex dex="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognito-2.3.3_e05664e5ba86e5a9b1a6a95bc4a0a8154c691472\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -26,34 +17,7 @@
         optimize="true"
         revision="24.0.2"
         sha1="45991c46f31e5fb14777759e0300abc156c6efa8">
-        <dex dex="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-core-2.3.3_24c6d7607614516c095f6498fb78fabfeca57a82\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
-        <dex dex="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_458c5b7d7f6edc02b85a25bee1632d1c98824d82\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
-        <dex dex="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_2e62364d0020bfe67fe614ed961598aba62a804c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Jonathan\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.3.3\c573e3c8b9fe81aa502441338155144a6217715f\aws-android-sdk-s3-2.3.3.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c573e3c8b9fe81aa502441338155144a6217715f">
-        <dex dex="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-s3-2.3.3_529e1277e006bd9eb44a93a363a6db94e8fa4e0c\classes.dex" />
+        <dex dex="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-core-2.3.3_24c6d7607614516c095f6498fb78fabfeca57a82\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -62,7 +26,7 @@
         optimize="true"
         revision="24.0.2"
         sha1="bfcde9f57f4635e3ec4529b5c5aa3d4a18b6fbce">
-        <dex dex="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-mobileanalytics-2.3.3_5dfed362fa59c7f554f773e1a6d298ea951ae674\classes.dex" />
+        <dex dex="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-mobileanalytics-2.3.3_5dfed362fa59c7f554f773e1a6d298ea951ae674\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -71,25 +35,16 @@
         optimize="true"
         revision="24.0.2"
         sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
-        <dex dex="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.2.0_263591b6cd794c40e9ec835aefc9e359f2410682\classes.dex" />
+        <dex dex="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.2.0_263591b6cd794c40e9ec835aefc9e359f2410682\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\jars\classes.jar"
+        jar="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
-        <dex dex="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.6.0_ecba9f52a883e4e88675585b6860224a61e07599\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="63fb0a0c3c3597e887db2fd3290843f211c06320">
-        <dex dex="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6808f17c13ce1ac1b9e5fc4a4faeec0267ada27c\classes.dex" />
+        sha1="a311fa7cfb3f0f5547f755a842be1219d205a2e0">
+        <dex dex="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2e2a643793352ded685b20d6b0124ac3316d290d\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -98,7 +53,61 @@
         optimize="true"
         revision="24.0.2"
         sha1="12d27c2a6087362cc8752a683c9a116e83c8900e">
-        <dex dex="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognitoidentityprovider-2.3.3_5a0f5d49c4e0fbe3acae49036e8d54bf6a83c38a\classes.dex" />
+        <dex dex="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-cognitoidentityprovider-2.3.3_5a0f5d49c4e0fbe3acae49036e8d54bf6a83c38a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_e437c3db8554456fd9663692fccda76c201a8677\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.0_e90521f39150c190cb37bcdbe4a07e4a2eaa8fa8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c1afa0ab2a8197a5da1b36c4167a9e479cb74d9">
+        <dex dex="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.6.0_33e020e3496529baa94986a024bfbe9008b611a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="915683cb572122c8650dfd19c7637371432b8fc8">
+        <dex dex="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3fca27df636e373dd209e815e225897d4385d2bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_ae956fb9c554c47cd09629c63a1d7dd58d1648f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jonathan\.gradle\caches\modules-2\files-2.1\com.amazonaws\aws-android-sdk-s3\2.3.3\c573e3c8b9fe81aa502441338155144a6217715f\aws-android-sdk-s3-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c573e3c8b9fe81aa502441338155144a6217715f">
+        <dex dex="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-s3-2.3.3_529e1277e006bd9eb44a93a363a6db94e8fa4e0c\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -107,7 +116,7 @@
         optimize="true"
         revision="24.0.2"
         sha1="a60a5e993c98c864010053cb901b7eab25306568">
-        <dex dex="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+        <dex dex="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -116,16 +125,16 @@
         optimize="true"
         revision="24.0.2"
         sha1="f671a3f320bc0c7cb6e6c2c821289f0aacd6acb9">
-        <dex dex="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-2.3.3_2259bb34483c784f9ae2f34b404237cf36a96e46\classes.dex" />
+        <dex dex="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-2.3.3_2259bb34483c784f9ae2f34b404237cf36a96e46\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="5982e3c660f0f59381c2bc416a06bfd1fd6fddd1">
-        <dex dex="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_13ab796a0a5545c2100935abf7238b56129f9148\classes.dex" />
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.0_69e652a05a1e8cfcde3dcee1878d1e942a198961\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -134,16 +143,7 @@
         optimize="true"
         revision="24.0.2"
         sha1="92e3fc113ec3ee36b64603a38857b95700025633">
-        <dex dex="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_31a2b5d6d25178d2d84c5e53358b6482d52abeca\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
-        <dex dex="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.0_5a9ba18771eb16b83c6a2155caea009c9b6a6af7\classes.dex" />
+        <dex dex="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.0_31a2b5d6d25178d2d84c5e53358b6482d52abeca\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -152,7 +152,7 @@
         optimize="true"
         revision="24.0.2"
         sha1="61fe1df9552f46c8d36f6bc29d90b3915a310b02">
-        <dex dex="C:\Users\Jonathan\Documents\HW\Senior Project\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-mapper-2.3.3_d882ed72c999a5c07e0747e8f39661ed8a2fcf75\classes.dex" />
+        <dex dex="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\10\aws-android-sdk-ddb-mapper-2.3.3_d882ed72c999a5c07e0747e8f39661ed8a2fcf75\classes.dex" />
     </item>
 
 </items>

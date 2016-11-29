@@ -36,5 +36,6 @@
     <string name="com_facebook_share_button_text">แชร์</string>
     <string name="com_facebook_tooltip_default">ใหม่! คุณเป็นฝ่ายควบคุม โปรดเลือกข้อมูลที่คุณต้องการแชร์ด้วยแอพ</string>
     <string name="messenger_send_button_text">ส่ง</string>
+    <string msgid="146198913615257606" name="search_menu_title">"ค้นหา"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

@@ -36,5 +36,6 @@
     <string name="com_facebook_share_button_text">Del</string>
     <string name="com_facebook_tooltip_default">Nyhed! Du har styringen – vælg de oplysninger, som du vil dele med apps.</string>
     <string name="messenger_send_button_text">Send</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Søg"</string>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

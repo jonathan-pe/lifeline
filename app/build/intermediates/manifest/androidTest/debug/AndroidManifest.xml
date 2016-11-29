@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.amazon.mysampleapp.test" >
+    package="com.amazon.LifeLine.test" >
 
     <uses-sdk
         android:minSdkVersion="15"
-        android:targetSdkVersion="23" />
+        android:targetSdkVersion="25" />
 
     <instrumentation
         android:name="com.android.test.runner.MultiDexTestRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.amazon.mysampleapp"
-        android:targetPackage="com.amazon.mysampleapp" />
+        android:label="Tests for com.amazon.LifeLine"
+        android:targetPackage="com.amazon.LifeLine" />
 
     <application>
         <uses-library android:name="android.test.runner" />
