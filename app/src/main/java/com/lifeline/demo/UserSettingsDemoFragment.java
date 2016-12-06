@@ -44,7 +44,7 @@ public class UserSettingsDemoFragment extends Fragment {
      */
     private static final String LOG_TAG = UserSettingsDemoFragment.class.getSimpleName();
     private static final Theme theme1 =
-            new Theme(0xFFFFFFFF, 0xFFF58535, 0xFFFFFFFF);
+            new Theme(0xFFFFFFFF, 0xFF47B618, 0xFFFFFFFF);
     private static final Theme theme2 =
             new Theme(0xFFDDDDDD, 0xFF00D2FF, 0xFFEEEEEE);
     private static final Theme theme3 =
