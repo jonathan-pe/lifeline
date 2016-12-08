@@ -43,19 +43,19 @@ public class DemoConfiguration {
                         R.string.feature_user_data_storage_demo_button_user_settings,
                         UserSettingsDemoFragment.class)
         );
-        addDemoFeature("app_analytics", R.mipmap.app_analytics,
-                R.string.feature_app_analytics_title, R.string.feature_app_analytics_subtitle,
-                R.string.feature_app_analytics_overview,
-                R.string.feature_app_analytics_description,
-                R.string.feature_app_analytics_powered_by,
-                new DemoItem(R.string.main_fragment_title_app_analytics,
-                        R.mipmap.app_analytics, R.string.feature_app_analytics_demo_button,
-                        AppAnalyticsDemoFragment.class));
-        addDemoFeature("nosql_database", R.mipmap.database, R.string.feature_nosql_database_title,
-            R.string.feature_nosql_database_subtitle, R.string.feature_nosql_database_overview,
-            R.string.feature_nosql_database_description, R.string.feature_nosql_database_powered_by,
-            new DemoItem(R.string.main_fragment_title_nosql_database, R.mipmap.database,
-                R.string.feature_nosql_database_demo_button, NoSQLSelectTableDemoFragment.class));
+//        addDemoFeature("app_analytics", R.mipmap.app_analytics,
+//                R.string.feature_app_analytics_title, R.string.feature_app_analytics_subtitle,
+//                R.string.feature_app_analytics_overview,
+//                R.string.feature_app_analytics_description,
+//                R.string.feature_app_analytics_powered_by,
+//                new DemoItem(R.string.main_fragment_title_app_analytics,
+//                        R.mipmap.app_analytics, R.string.feature_app_analytics_demo_button,
+//                        AppAnalyticsDemoFragment.class));
+//        addDemoFeature("nosql_database", R.mipmap.database, R.string.feature_nosql_database_title,
+//            R.string.feature_nosql_database_subtitle, R.string.feature_nosql_database_overview,
+//            R.string.feature_nosql_database_description, R.string.feature_nosql_database_powered_by,
+//            new DemoItem(R.string.main_fragment_title_nosql_database, R.mipmap.database,
+//                R.string.feature_nosql_database_demo_button, NoSQLSelectTableDemoFragment.class));
     }
 
     public static List<DemoFeature> getDemoFeatureList() {

@@ -76,7 +76,7 @@ public class HomeDemoFragment extends DemoFragmentBase {
             if (convertView == null) {
                 view = inflater.inflate(R.layout.list_item_icon_text_with_subtitle, parent, false);
                 holder = new ViewHolder();
-                holder.iconImageView = (ImageView) view.findViewById(R.id.list_item_icon);
+//                holder.iconImageView = (ImageView) view.findViewById(R.id.list_item_icon);
                 holder.titleTextView = (TextView) view.findViewById(R.id.list_item_title);
                 holder.subtitleTextView = (TextView) view.findViewById(R.id.list_item_subtitle);
                 view.setTag(holder);
@@ -86,7 +86,7 @@ public class HomeDemoFragment extends DemoFragmentBase {
             }
 
             DemoConfiguration.DemoFeature item = getItem(position);
-            holder.iconImageView.setImageResource(item.iconResId);
+//            holder.iconImageView.setImageResource(item.iconResId);
             holder.titleTextView.setText(item.titleResId);
             holder.subtitleTextView.setText(item.subtitleResId);
 
@@ -95,7 +95,7 @@ public class HomeDemoFragment extends DemoFragmentBase {
     }
 
     private static final class ViewHolder {
-        ImageView iconImageView;
+//        ImageView iconImageView;
         TextView titleTextView;
         TextView subtitleTextView;
     }

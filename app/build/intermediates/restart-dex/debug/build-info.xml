@@ -4,41 +4,41 @@
     api-level="24"
     density="xxhdpi"
     format="8"
-    plugin-version="2.2.2"
-    timestamp="2255254885258679"
+    plugin-version="2.2.3"
+    timestamp="2440184206559773"
     token="8017461241291141146"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="STATIC_INITIALIZER_CHANGE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1086" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="14" />
     <task
         name="verifier"
-        duration="0" />
+        duration="27" />
 
     <artifact
-        location="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="2254942373845811"
+        timestamp="2439806090609552"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="2255254885258679"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="2440184206559773"
+        verifier="STATIC_INITIALIZER_CHANGE" >
         <artifact
-            location="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
+            location="C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

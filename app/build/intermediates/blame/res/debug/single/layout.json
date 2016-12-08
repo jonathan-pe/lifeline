@@ -20,6 +20,10 @@
         "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_page.xml",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\src\\main\\res\\layout\\home_page.xml"
+    },
+    {
         "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_custom_big.xml",
         "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_custom_big.xml"
     },
@@ -188,12 +192,12 @@
         "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_demo_nosql_select_operation.xml",
-        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\src\\main\\res\\layout\\fragment_demo_nosql_select_operation.xml"
-    },
-    {
         "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
         "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_demo_nosql_select_operation.xml",
+        "source": "C:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\src\\main\\res\\layout\\fragment_demo_nosql_select_operation.xml"
     },
     {
         "merged": "C:\\Users\\Jonathan\\Documents\\GitHub\\LifeLine\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",

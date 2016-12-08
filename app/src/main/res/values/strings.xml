@@ -19,6 +19,7 @@
   <string name="title_activity_sign_in">Sign-in</string>
   <string name="button_text_sign_in">SIGN IN</string>
   <string name="button_text_sign_out">SIGN OUT</string>
+  <string name="button_text_add_event">+</string>
   <string name="sign_in_email">Email</string>
   <string name="sign_in_username">Username/Phone Number (+15551234567)</string>
   <string name="sign_in_password">Password</string>
@@ -63,8 +64,8 @@
 
   <string name="fragment_demo_instruction_overview_header">Overview</string>
   <string name="fragment_demo_instruction_description_header">Sample App Features</string>
-  <string name="feature_sign_in_title">User Sign-In</string>
-  <string name="feature_sign_in_subtitle">Let your users sign in with public identity providers or your own identity system.</string>
+  <string name="feature_sign_in_title">Where</string>
+  <string name="feature_sign_in_subtitle">Black Lake Golf Resort</string>
   <string name="feature_sign_in_overview">Whether your users sign in or not, the User sign-in feature configures Amazon Cognito to uniquely identify the user and provide your app the appropriate credentials to access your AWS resources.</string>
   <string name="feature_sign_in_description">The Sample App demonstrates assignment of a unique identifier for the user, the Amazon Cognito User ID. If optional or mandatory User Sign-in has been enabled in your project, then the Sample App also includes a sign-in screen, with a button for each configured sign-in provider.</string>
   <string name="feature_sign_in_powered_by">Powered by Amazon Cognito</string>
@@ -75,15 +76,15 @@
   <string name="feature_app_analytics_description">The Sample App records user session activity in metrics that may be viewed in the Amazon Mobile Analytics console. It also provides buttons to demonstrate generating a custom or monetization event, which records user activity, such as the sale of an in-app purchase item.</string>
   <string name="feature_app_analytics_powered_by">Powered by Amazon Mobile Analytics</string>
   <string name="feature_app_analytics_demo_button">Demo App Analytics</string>
-  <string name="feature_user_data_storage_title">User Data Storage</string>
-  <string name="feature_user_data_storage_subtitle">Store files for your users in the cloud.\nStore and sync user data in key/value pairs.</string>
+  <string name="feature_user_data_storage_title">Details</string>
+  <string name="feature_user_data_storage_subtitle">We will be celebrating our...</string>
   <string name="feature_user_data_storage_overview">Store user files such as photos in the cloud. Save user data in key/value pairs and sync across devices that are signed-in with the same user.</string>
   <string name="feature_user_data_storage_description">The Sample App demonstrates User File Storage and User Profile Data. The User File Storage demonstration includes a remote file explorer, which allows you to upload and download files from your Amazon S3 bucket. You will have access to two folders, a public folder where files are accessible to all users and a private folder where files are only accessible by the current app user.\n\nThe User Profile Data demonstration stores an app color theme using Amazon Cognito Sync and synchronizes that data across all of the user\'s devices as key/value pairs.</string>
   <string name="feature_user_data_storage_powered_by">Powered by Amazon Cognito and Amazon S3</string>
   <string name="feature_user_data_storage_demo_button_user_file_storage">Demo User File Storage</string>
   <string name="feature_user_data_storage_demo_button_user_settings">Demo User Profile Data</string>
-  <string name="feature_app_content_delivery_title">App Content Delivery</string>
-  <string name="feature_app_content_delivery_subtitle">Store and distribute media assets and other files.</string>
+  <string name="feature_app_content_delivery_title">Guest List</string>
+  <string name="feature_app_content_delivery_subtitle">Brandon Dimaya, Zoe Wood + 75 others</string>
   <string name="feature_app_content_delivery_overview">Store app assets like resource files in the cloud. Download and cache files in your app.</string>
   <string name="feature_app_content_delivery_description">The Sample App demonstrates file download and caching by providing a remote file explorer. You can download files from Amazon S3 (and optionally Amazon CloudFront) and pin them to the cache on device by clicking on each file entry. From the menu, you can download all recent files, set the cache size limit, or clear the cache.</string>
   <string name="feature_app_content_delivery_powered_by">Powered by Amazon S3 and Amazon CloudFront</string>

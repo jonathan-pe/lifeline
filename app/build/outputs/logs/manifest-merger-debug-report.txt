@@ -36,15 +36,15 @@ ADDED from C:\Users\Jonathan\Documents\GitHub\LifeLine\app\src\main\AndroidManif
 application
 ADDED from C:\Users\Jonathan\Documents\GitHub\LifeLine\app\src\main\AndroidManifest.xml:25:5-129:19
 MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:23:5-20
 MERGED from [com.facebook.android:facebook-android-sdk:4.6.0] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from C:\Users\Jonathan\Documents\GitHub\LifeLine\app\src\main\AndroidManifest.xml:28:9-41
 	android:allowBackup
@@ -191,15 +191,15 @@ uses-sdk
 INJECTED from C:\Users\Jonathan\Documents\GitHub\LifeLine\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:multidex:1.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:21:5-43
 MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\AndroidManifest.xml:21:5-43
 MERGED from [com.facebook.android:facebook-android-sdk:4.6.0] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.6.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.0.1] C:\Users\Jonathan\Documents\GitHub\LifeLine\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion

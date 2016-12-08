@@ -3,21 +3,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
 
-    <ImageView
-        android:id="@+id/list_item_icon"
-        android:layout_width="65dp"
-        android:layout_height="65dp"
-        android:padding="4dp"/>
-
     <TextView
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:id="@+id/list_item_title"
         android:layout_alignTop="@id/list_item_icon"
-        android:layout_toRightOf="@+id/list_item_icon"
-        android:layout_alignParentRight="true"
-        android:layout_marginTop="4dp"/>
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="5dp" />
 
     <TextView
         android:layout_width="fill_parent"
@@ -25,7 +18,9 @@
         android:textAppearance="?android:attr/textAppearanceSmall"
         android:id="@+id/list_item_subtitle"
         android:layout_below="@id/list_item_title"
-        android:layout_toRightOf="@+id/list_item_icon"
+        android:layout_toRightOf="@id/list_item_title"
         android:layout_alignLeft="@+id/list_item_title"
-        android:layout_alignParentRight="true"/>
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="5dp"
+        android:paddingBottom="5dp" />
 </RelativeLayout>
