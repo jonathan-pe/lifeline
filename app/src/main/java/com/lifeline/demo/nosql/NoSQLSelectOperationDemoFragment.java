@@ -73,7 +73,6 @@ public class NoSQLSelectOperationDemoFragment extends DemoFragmentBase implement
     }
 
     public void createOperationsList(final View fragmentView) {
-        operationsListView = (ListView) fragmentView.findViewById(R.id.nosql_operation_list);
         operationsListAdapter = new DemoNoSQLOperationListAdapter(getActivity(),
             R.layout.demo_nosql_select_operation_list_item);
         operationsListView.setOnItemClickListener(this);
@@ -167,22 +166,6 @@ public class NoSQLSelectOperationDemoFragment extends DemoFragmentBase implement
     public void onViewCreated(final View fragmentView, final Bundle savedInstanceState) {
         spinnerRunner = new SpinnerRunner();
         createOperationsList(fragmentView);
-
-        final Button insertSampleDataButton = (Button) fragmentView.findViewById(R.id.button_insert_sample_data);
-        insertSampleDataButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(final View v) {
-                insertSampleData();
-            }
-        });
-
-        Button removeSampleDataButton = (Button) fragmentView.findViewById(R.id.button_remove_sample_data);
-        removeSampleDataButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(final View v) {
-                promptToDeleteSampleData();
-            }
-        });
     }
 
     private void handleNoResultsFound() {

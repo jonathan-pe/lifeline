@@ -2,7 +2,7 @@
 
   <!-- CUSTOMIZE THESE FOR YOUR APP -->
 
-  <string name="app_name"><u>LifeLine</u></string>
+  <string name="app_name">LifeLine</string>
   <!-- Suffix after '-' must be the app package name as specified in the build.gradle file. This
        is used by the com.amazonaws.mobile.downloader.query.DownloadQueueProvider class. -->
   <string name="download_queue_provider_authority">com.amazonaws.mobile.downloader-com.amazon.LifeLine</string>
@@ -12,6 +12,19 @@
 
   <!-- REQUIRED FOR GENERAL APP FUNCTIONALITY - YOU MAY WANT TO KEEP THESE -->
 
+  <string name="event_title">Event Title:</string>
+  <string name="add_date">Date:</string>
+  <string name="add_time">Time:</string>
+  <string name="date_from">From:</string>
+  <string name="date_to">To:</string>
+  <string name="enter_text">Enter text&#8230;</string>
+  <string name="enter_address">Enter address&#8230;</string>
+  <string name="enter_description">Enter description&#8230;</string>
+  <string name="enter_names">Enter names&#8230;</string>
+  <string name="enter_time">00:00 AM/PM</string>
+  <string name="add_location">Location:</string>
+  <string name="add_description">Event description:</string>
+  <string name="invite_friends">Invite friends:</string>
   <string name="main_nav_menu_item_home">Home</string>
   <string name="title_activity_item_detail">Item Detail</string>
   <string name="title_activity_item_list">Item List</string>

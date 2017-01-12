@@ -1,19 +1,130 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml version="1.0" encoding="utf-8"?>
 <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
     android:stretchColumns="1">
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_column="1"
+            android:textSize="30sp"
+            android:padding="15dip" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_column="1"
+            android:textSize="30sp"
+            android:text="@string/event_title"
+            android:padding="3dip" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:layout_column="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:textSize="15sp"
+            android:text="@string/enter_text"
+            android:ems="10"
+            android:id="@+id/event_title_text_box" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_column="1"
+            android:textSize="30sp"
+            android:text="@string/add_date"
+            android:padding="3dip" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:textSize="20sp"
+            android:text="@string/date_from"
+            android:padding="3dip" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            app:fabSize="mini"
+            app:srcCompat="@android:drawable/ic_menu_my_calendar"
+            android:id="@+id/floatingActionButton" />
+
+    </TableRow>
 
     <TableRow>
         <TextView
             android:layout_column="1"
-            android:text="@string/user_id"
+            android:textSize="20sp"
+            android:text="@string/date_to"
             android:padding="3dip" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            app:fabSize="mini"
+            app:srcCompat="@android:drawable/ic_menu_my_calendar"
+            android:id="@+id/floatingActionButton2" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
         <TextView
-            android:text="@string/user_id"
-            android:gravity="end"
+            android:layout_column="1"
+            android:textSize="30sp"
+            android:text="@string/add_time"
             android:padding="3dip" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:textSize="20sp"
+            android:text="@string/date_from"
+            android:padding="3dip" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            app:fabSize="mini"
+            app:srcCompat="@mipmap/icon_delay"
+            android:id="@+id/floatingActionButton7" />
+
     </TableRow>
 
     <TableRow
@@ -21,59 +132,118 @@
         android:layout_height="match_parent">
         <TextView
             android:layout_column="1"
-            android:text="@string/user_id"
+            android:textSize="20sp"
+            android:text="@string/date_to"
             android:padding="3dip" />
-        <TextView
-            android:text="@string/user_id"
-            android:gravity="end"
-            android:padding="3dip" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            app:fabSize="mini"
+            app:srcCompat="@mipmap/icon_delay"
+            android:id="@+id/floatingActionButton3" />
+
     </TableRow>
 
-    <TableRow>
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
         <TextView
             android:layout_column="1"
-            android:text="@string/user_id"
+            android:textSize="30sp"
+            android:text="@string/add_location"
             android:padding="3dip" />
-        <TextView
-            android:text="@string/user_id"
-            android:gravity="end"
-            android:padding="3dip" />
+
     </TableRow>
 
-    <View
-        android:layout_height="2dip"
-        android:background="#FF909090" />
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
 
-    <TableRow>
-        <TextView
-            android:text="@string/user_id"
-            android:padding="3dip" />
-        <TextView
-            android:text="@string/user_id"
-            android:padding="3dip" />
+        <EditText
+            android:layout_column="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:textSize="15sp"
+            android:text="@string/enter_address"
+            android:ems="10"
+            android:id="@+id/location_text_box_text_box" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            app:fabSize="mini"
+            app:srcCompat="@android:drawable/ic_menu_mylocation"
+            android:id="@+id/floatingActionButton8" />
+
     </TableRow>
 
-    <TableRow>
-        <TextView
-            android:text="@string/user_id"
-            android:padding="3dip" />
-        <TextView
-            android:text="@string/user_id"
-            android:padding="3dip" />
-        <TextView
-            android:text="@string/user_id"
-            android:gravity="end"
-            android:padding="3dip" />
-    </TableRow>
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
 
-    <View
-        android:layout_height="2dip"
-        android:background="#FF909090" />
-
-    <TableRow>
         <TextView
             android:layout_column="1"
-            android:text="@string/user_id"
+            android:textSize="30sp"
+            android:text="@string/add_description"
             android:padding="3dip" />
+
     </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:layout_column="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:textSize="15sp"
+            android:text="@string/enter_description"
+            android:ems="10"
+            android:id="@+id/description_text_box" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_column="1"
+            android:textSize="30sp"
+            android:text="@string/invite_friends"
+            android:padding="3dip" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:layout_column="1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:textSize="15sp"
+            android:text="@string/enter_names"
+            android:ems="10"
+            android:id="@+id/invite_text_box" />
+
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            app:fabSize="mini"
+            app:srcCompat="@android:drawable/ic_menu_add"
+            android:id="@+id/floatingActionButton10" />
+
+    </TableRow>
+
 </TableLayout>
